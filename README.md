@@ -3,7 +3,7 @@
 ![Demonstração](assets/demo.gif)  
 **Número da Lista**: 4 <br>  
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>  
-[**Video da apresentação**](https://youtu.be/ZXEWLwLtZCQ)<br>
+**Video da apresentação disponivel na description**<br>
 
 ## Alunos
 | Matrícula   | Aluno                            |
